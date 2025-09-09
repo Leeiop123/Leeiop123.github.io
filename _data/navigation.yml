@@ -9,7 +9,7 @@
 
 main:
   - title: "Projects"
-    url: /Projects/
+    url: /project/
 
   - title: "My Ideas"
     url: /Talks/    
