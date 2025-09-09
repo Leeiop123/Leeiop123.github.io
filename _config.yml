@@ -22,9 +22,9 @@ repository               : "leeiop123/leeiop123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile1.png.jpeg"
   name             : "Ian Lee"
-  pronouns         : # example: "He/him"  
+  pronouns         :"He/him"  
   bio              : "a cool guy that works on cool stuff"
   location         : "Penang, Malayisa"
   employer         : "Chung Ling Private Highschool"
