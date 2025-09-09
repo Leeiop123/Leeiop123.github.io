@@ -1,12 +1,23 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /project/
 author_profile: true
 ---
-{% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Welcome to my **Projects** page! 🎉  
+
+Here you can showcase your work. For example:
+
+## Project 1: Hydra  
+A hydrofoil rescue bot that uses AI for water safety.  
+
+![Hydra](/images/hydra.jpg)
+
+## Project 2: Another Idea  
+Short description of your second project.  
+
+
+
+---
 
