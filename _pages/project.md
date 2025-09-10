@@ -1,23 +1,12 @@
 ---
-layout: archive
+layout: page
 title: "Projects"
-permalink: /project/
-author_profile: true
+permalink: /projects/
 ---
 
-Welcome to my **Projects** page! 🎉  
-
-Here you can showcase your work. For example:
-
-## Project 1: Hydra  
-A hydrofoil rescue bot that uses AI for water safety.  
-
-![Hydra](/images/hydra.jpg)
-
-## Project 2: Another Idea  
-Short description of your second project.  
-
-
+# My Projects 🚀
+Welcome to my portfolio!  
+Here are some of my featured projects.
 
 ---
 
