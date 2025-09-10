@@ -14,8 +14,8 @@ url: "https://leeiop123.github.io" # your GitHub Pages URL
 avatar: "/assets/images/profile.jpg"
 
 nav:
-  - title: "Projects"
-  url: /projects/
+ - title: "Projects"
+  url: /pages/projects/
 - title: "My Ideas"
   url: /ideas/
 - title: "Teaching"
