@@ -6,28 +6,26 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+title: Ian Lee homepage
+description: "Welcome to my personal site!"
+baseurl: "" # leave empty for main repo
+url: "https://leeiop123.github.io" # your GitHub Pages URL
 
-main:
-  - title: "Projects"
-    url: /projects/
+avatar: "/assets/images/profile.jpg"
 
-  - title: "My Ideas"
-    url: /Talks/    
+nav:
+  - name: "Projects"
+    url: "/projects/"
+  - name: "My Ideas"
+    url: "/ideas/"
+  - name: "Teaching"
+    url: "/teaching/"
+  - name: "Portfolio"
+    url: "/portfolio/"
+  - name: "Blog Posts"
+    url: "/blog/"
+  - name: "CV"
+    url: "/cv/"
+  - name: "Guide"
+    url: "/guide/"
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
