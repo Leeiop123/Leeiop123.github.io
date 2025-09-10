@@ -14,18 +14,18 @@ url: "https://leeiop123.github.io" # your GitHub Pages URL
 avatar: "/assets/images/profile.jpg"
 
 nav:
-  - name: "Projects"
-    url: "/projects/"
-  - name: "My Ideas"
-    url: "/ideas/"
-  - name: "Teaching"
-    url: "/teaching/"
-  - name: "Portfolio"
-    url: "/portfolio/"
-  - name: "Blog Posts"
-    url: "/blog/"
-  - name: "CV"
-    url: "/cv/"
-  - name: "Guide"
-    url: "/guide/"
+  - title: "Projects"
+  url: /projects/
+- title: "My Ideas"
+  url: /ideas/
+- title: "Teaching"
+  url: /teaching/
+- title: "Portfolio"
+  url: /portfolio/
+- title: "Blog Posts"
+  url: /blog/
+- title: "CV"
+  url: /cv/
+- title: "Guide"
+  url: /guide/
 
