@@ -19,7 +19,7 @@ avatar: "/assets/images/profile.jpg"
 - title: "Projects"
   url: /pages/projects/
 
-- title: "Teaching"
+- title: "My ideas"
   url: /pages/teaching/
 
 - title: "Portfolio"
@@ -29,7 +29,7 @@ avatar: "/assets/images/profile.jpg"
   url: /pages/blog/
 
 - title: "CV"
-  url: /files/cv.pdf
+  url: /pages/cv
 
 - title: "Guide"
   url: /pages/guide/
